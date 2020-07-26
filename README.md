@@ -1,6 +1,6 @@
 # Safe-Keeper-With-AES-GCM
 
-Please to refer to me blog.
+Please to refer to my blog.
 
 https://baotdvi.wordpress.com/2020/07/05/play-around-with-aes-gcm/
 
